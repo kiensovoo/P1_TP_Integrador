@@ -29,7 +29,7 @@ for caso, valor_a_buscar in casos.items():
     fin = time.perf_counter() # Se guarda el tiempo preciso al finalizar
     tiempo_encontrar = (fin - inicio)*1000 # Convertir a ms
 
-    # Búsqueda con la segunda función -> O(1)
+    # Búsqueda con la segunda función -> O(n)
     inicio = time.perf_counter()
     rta_lista = esta_en_lista(mi_lista, valor_a_buscar)
     fin = time.perf_counter()
