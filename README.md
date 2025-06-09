@@ -20,6 +20,6 @@ El objetivo de este trabajo es comprender cómo se analiza el rendimiento de los
 ## **Instrucciones de ejecución**
 Este programa está pensado para ejecutarse directamente y obtener los resultados de los tiempos de ejecución en consola. En caso de querer editar los rangos de la lista, se deberá editar la variable `n`, que por defecto vale 10.000.000.
 
-📢 **Enlace al video:** 
-> **Última actualización:** 07/06/2025
+📢 **Enlace al video:** [Ver presentación en YouTube](https://www.youtube.com/watch?v=0DbwWmvO6qg)
+> **Última actualización:** 09/06/2025
 
